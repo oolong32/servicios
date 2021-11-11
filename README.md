@@ -24,11 +24,11 @@ Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incid
 
 ## Untertitel
 
-Adresse Adresse
-Strasse 123
+Adresse Adresse  
+Strasse 123  
 1234 Ort
 
-Tel: 123456789
+Tel: 123456789  
 Fax: 123456789
 
 Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 
